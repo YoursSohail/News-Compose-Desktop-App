@@ -1,5 +1,5 @@
 package utils
 
 object Constants {
-    val API_KEY = "api goes here"
+    const val API_KEY = "api goes here"
 }
